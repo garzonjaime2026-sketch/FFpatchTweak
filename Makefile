@@ -11,5 +11,3 @@ FFPatchTweak_FILES := Ajuste.xm
 FFPatchTweak_FRAMEWORKS := UIKit Foundation UniformTypeIdentifiers
 FFPatchTweak_PRIVATE_FRAMEWORKS := MobileContainerManager
 FFPatchTweak_CFLAGS := -fobjc-arc
-
-include $(THEOS_MAKE_PATH)/Ajuste.xm
